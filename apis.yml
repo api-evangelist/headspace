@@ -1,0 +1,88 @@
+aid: headspace
+url: https://raw.githubusercontent.com/api-evangelist/headspace/refs/heads/main/apis.yml
+name: Headspace
+kind: company
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Mental Health
+  - Meditation
+  - Sleep
+  - Mindfulness
+  - Therapy
+  - Coaching
+  - Psychiatry
+  - EAP
+  - Consumer
+  - B2B
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+description: >-
+  Headspace is a global mental health platform offering consumer mindfulness, meditation, and
+  sleep content alongside Headspace Care (formerly Ginger) — on-demand coaching, therapy,
+  and psychiatry — and Headspace EAP. The B2B business (Headspace for Organizations) serves
+  4,000+ employers, health plans, and consultants in 190+ countries with a stratified care
+  model (AI companion Ebb, coaches, therapists, psychiatrists). Integration surfaces for
+  enterprise customers — eligibility file feeds, SSO, SCIM, benefit-platform connectors —
+  are delivered under enterprise contracts and are not exposed via a public developer
+  portal. There is no public REST API, no published OpenAPI specification, and no self-serve
+  partner onboarding.
+apis: []
+common:
+  - type: Website
+    url: https://www.headspace.com
+  - type: ForOrganizations
+    url: https://organizations.headspace.com
+  - type: HeadspaceCare
+    url: https://www.headspace.com/care
+  - type: HeadspaceEAP
+    url: https://organizations.headspace.com/eap
+  - type: ForEmployers
+    url: https://organizations.headspace.com/employers
+  - type: ForHealthPlans
+    url: https://organizations.headspace.com/health-plans
+  - type: ForConsultants
+    url: https://organizations.headspace.com/consultants
+  - type: Therapy
+    url: https://www.headspace.com/therapy
+  - type: Meditation
+    url: https://www.headspace.com/meditation
+  - type: Sleep
+    url: https://www.headspace.com/sleep
+  - type: Pricing
+    url: https://www.headspace.com/subscriptions
+  - type: HelpCenter
+    url: https://help.headspace.com
+  - type: Blog
+    url: https://www.headspace.com/articles
+  - type: Newsroom
+    url: https://newsroom.headspace.com
+  - type: Science
+    url: https://www.headspace.com/science
+  - type: TrustCenter
+    url: https://www.headspace.com/trust
+  - type: PrivacyPolicy
+    url: https://www.headspace.com/privacy-policy
+  - type: TermsOfService
+    url: https://www.headspace.com/terms-and-conditions
+  - type: Careers
+    url: https://www.headspace.com/careers
+  - type: iOSApp
+    url: https://apps.apple.com/us/app/headspace-sleep-meditation/id493145008
+  - type: AndroidApp
+    url: https://play.google.com/store/apps/details?id=com.getsomeheadspace.android
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/headspace
+  - type: Twitter
+    url: https://x.com/headspace
+  - type: Facebook
+    url: https://www.facebook.com/headspace
+  - type: Instagram
+    url: https://www.instagram.com/headspace/
+  - type: YouTube
+    url: https://www.youtube.com/@headspace
+  - type: Contact
+    url: https://organizations.headspace.com/contact
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
